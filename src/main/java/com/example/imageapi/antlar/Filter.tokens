@@ -1,0 +1,17 @@
+T__0=1
+T__1=2
+T__2=3
+ANDOPERATOR=4
+OROPERATOR=5
+OPERATOR=6
+STRING=7
+LPAREN=8
+RPAREN=9
+WS=10
+'tag'=1
+'author'=2
+'name'=3
+'and'=4
+'or'=5
+'('=8
+')'=9
